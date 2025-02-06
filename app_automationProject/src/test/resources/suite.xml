@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Calculator Automation">
+    <test name = "Calculator Automation">
+        <classes>
+            <class name = "CalcTestRunner"></class>
+        </classes>
+    </test>
+    <test name = "Calculator Automation 2">
+        <classes>
+            <class name = "CalcTestRunner2"></class>
+        </classes>
+    </test>
+</suite>
