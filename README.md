@@ -1,8 +1,19 @@
 # About Mobile-App-automation-with-Appium:
 
+* Objective: Create a function to automate calculations for a series input.
+* Method: Implement a test function that accepts a calculation string as a parameter.
+  
+  Objective: Implement another function that retrieves calculation series from a CSV file and performs the 
+  calculations.
+
+  This project aims to develop skills in automating testing processes for an Android calculator app by 
+  utilizing both direct function calls and data-driven techniques via CSV file input.
+
 # Technology used:
 * Java (jdk 17).
-* Postman. (Used for initial API exploration and request & response validation.)
+* Appium inspector 
+* Android studio code
+* Terminal (Used for run appium)
 * Intellij IDEA.
 * Gradle. (Used to managed the dependencies.)
 * Rest Assured. (Tool for automating REST API testing.)
