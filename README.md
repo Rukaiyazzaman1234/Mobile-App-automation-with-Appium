@@ -32,7 +32,7 @@
 
 ![Capture2](https://github.com/user-attachments/assets/b66a10aa-f50e-4863-b767-8121ae6191f3)
 
-# Automation Record process
+# Automation Record Process
 
 https://drive.google.com/file/d/1LkXrHo2-ZQc6Q3lUSe2GXVeJgNv_aevH/view?usp=sharing
 
